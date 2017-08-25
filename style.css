@@ -18,17 +18,17 @@ body, html {
 }
 
 .pimg1 {
-	background-image: url('images/ford1.jpeg');
+	background-image: url('ford1.jpeg');
 	min-height: 100%;
 }
 
 .pimg2 {
-	background-image: url('images/ford2.jpeg');
+	background-image: url('ford2.jpeg');
 	min-height: 100%;
 }
 
 .pimg3 {
-	background-image: url('images/ford3.jpeg');
+	background-image: url('ford3.jpeg');
 	min-height: 100%;
 }
 
